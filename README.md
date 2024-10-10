@@ -26,7 +26,7 @@ A continuación, el programa te pedirá que ingreses ciertos parámetros:
   - **Velocidades iniciales**: La velocidad inicial de cada masa.
   - **Desplazamientos iniciales**: El desplazamiento inicial de cada masa con respecto a su posición de equilibrio.
 
-##Ejemplo de entrada
+## Ejemplo de entrada
 Para una simulación con 3 masas, puedes ingresar los siguientes valores:
 
 Ingrese el número de masas (n): 3
