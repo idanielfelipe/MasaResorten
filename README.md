@@ -29,20 +29,20 @@ A continuación, el programa te pedirá que ingreses ciertos parámetros:
 ## Ejemplo de entrada
 Para una simulación con 3 masas, puedes ingresar los siguientes valores:
 
--**Ingrese el número de masas (n):** 3
--**Ingrese el valor de k1 (positivo):** 1
--**Ingrese el valor de k2 (positivo):** 0.5
--**Ingrese el valor de k3 (positivo):** 1.5
--**Ingrese el valor de k4 (positivo):** 1
--**Ingrese el valor de m1 (positivo):** 1
--**Ingrese el valor de m2 (positivo):** 2
--**Ingrese el valor de m3 (positivo):** 1
--**Ingrese la velocidad inicial v1(0):** 0
--**Ingrese la velocidad inicial v2(0):** 0
--**Ingrese la velocidad inicial v3(0):** 0
--**Ingrese el desplazamiento inicial x1(0):** 1
--**Ingrese el desplazamiento inicial x2(0):** -0.5
--**Ingrese el desplazamiento inicial x3(0):** 0.5
+- **Ingrese el número de masas (n):** 3
+- **Ingrese el valor de k1 (positivo):** 1
+- **Ingrese el valor de k2 (positivo):** 0.5
+- **Ingrese el valor de k3 (positivo):** 1.5
+- **Ingrese el valor de k4 (positivo):** 1
+- **Ingrese el valor de m1 (positivo):** 1
+- **Ingrese el valor de m2 (positivo):** 2
+- **Ingrese el valor de m3 (positivo):** 1
+- **Ingrese la velocidad inicial v1(0):** 0
+- **Ingrese la velocidad inicial v2(0):** 0
+- **Ingrese la velocidad inicial v3(0):** 0
+- **Ingrese el desplazamiento inicial x1(0):** 1
+- **Ingrese el desplazamiento inicial x2(0):** -0.5
+- **Ingrese el desplazamiento inicial x3(0):** 0.5
 
 ### Resultados
 El programa generará:
