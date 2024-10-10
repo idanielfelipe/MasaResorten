@@ -1,6 +1,6 @@
 ### MasaResorte
 
-```
+
 # Simulación del Sistema Masa-Resorte
 
 ## Descripción
